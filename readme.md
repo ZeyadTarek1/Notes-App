@@ -6,7 +6,7 @@ npm install
 
 Commands
 
-node app.js add --title="" --body=""
-node app.js remove --title=""
-node app.js list
+node app.js add --title="" --body=""  
+node app.js remove --title=""  
+node app.js list  
 node app.js read --title=""
