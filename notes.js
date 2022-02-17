@@ -75,6 +75,7 @@ const readNote = (title) => {
     }
 };
 
+//exports
 module.exports = {
     addNotes: addNotes,
     deleteNote: deleteNote,
